@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5044f6fe-ff31-40d9-890a-dc4939ce9852" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HoursMinutesSeconds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PaintCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textbookHomework_Chapter2.iml" afterDir="false" />
-    </list>
+    <list default="true" id="5044f6fe-ff31-40d9-890a-dc4939ce9852" name="Changes" comment="Created Cylinder.java, HoursMinutesSeconds.java, and PaintCalculator.java to complete programs per instructions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +58,18 @@
       <option name="presentableId" value="Default" />
       <updated>1675382845552</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created Cylinder.java, HoursMinutesSeconds.java, and PaintCalculator.java to complete programs per instructions">
+      <created>1675388937396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675388937396</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Cylinder.java, HoursMinutesSeconds.java, and PaintCalculator.java to complete programs per instructions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Cylinder.java, HoursMinutesSeconds.java, and PaintCalculator.java to complete programs per instructions" />
   </component>
 </project>
